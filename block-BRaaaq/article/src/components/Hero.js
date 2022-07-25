@@ -3,7 +3,7 @@ function Header() {
       <>
         <div className="hero">
           <img
-            src="/Images/hero.jpeg"
+            src="/images/bram.jpg"
             alt=""
             width="100%"
             height="350px"
